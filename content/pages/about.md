@@ -9,7 +9,8 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Pero la vida viene y va, chico
+> Pero la vida viene y va, chico.
+> 
 > La vida va y viene.
 
 **Hola** Soy Dykeo Alejandro.
