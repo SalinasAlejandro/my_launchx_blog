@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
-languageCode = "en-us"
-title = "Bitácora de Viaje"
+baseURL = "https://salinasalejandro.github.io/my_launchx_blog/"
+languageCode = "es-mx"
+title = "Bitácora de Viaje de Alejandro 'Dykeo' Salinas"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
@@ -13,7 +13,7 @@ paginate = 3
 [params]
   google_analytics_id = ""
   # Hey Explorer aquí pon tu twitter 👇
-  twitter_handle = "@visual_partner"
+  twitter_handle = "No tengo UnU"
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
   showPostsOnHomepage = false
