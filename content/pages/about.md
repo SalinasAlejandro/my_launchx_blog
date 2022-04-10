@@ -1,21 +1,17 @@
 ---
-title: 'About me'
+title: 'Sobre mí'
 menu:
   main:
-    name: "AboutMe"
+    name: "Sobre mí"
 ---
 
-## Who am I
+## ¿Quién soy?
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Pero la vida viene y va, chico
+> La vida va y viene.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**Hola** Soy Dykeo Alejandro.
+Me gusta de todo un poco, pero mi cantante Fav es la diosa [Norykko](https://www.youtube.com/c/norykko-oficial).
 
